@@ -1,6 +1,6 @@
 {
-    "title": "Software Enginnering II",
-    "name": "Software Enginnering II",
+    "title": "Stylish Portfolio",
+    "name": "startbootstrap-stylish-portfolio",
     "version": "5.0.5",
     "scripts": {
         "start": "gulp watch"
